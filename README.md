@@ -1,7 +1,7 @@
 <h1 align="center"> YouTube video downloader </h1>
 
 <p align="center">
-<img src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s200" alt="RocketHelp logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/200px-YouTube_Logo_%282013-2017%29.svg.png" alt="RocketHelp logo"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/license/rogerroth/youtube-video-downloader"/>
